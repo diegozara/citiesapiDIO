@@ -1,6 +1,6 @@
-package com.diegozaratini.cidadesapi;
+package com.diegozaratini.cidadesapi.resource;
 
-import com.diegozaratini.cidadesapi.countries.Country;
+import com.diegozaratini.cidadesapi.entity.Country;
 import com.diegozaratini.cidadesapi.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

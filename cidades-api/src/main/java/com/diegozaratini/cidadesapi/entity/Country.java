@@ -1,4 +1,4 @@
-package com.diegozaratini.cidadesapi.countries;
+package com.diegozaratini.cidadesapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
