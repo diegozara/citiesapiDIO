@@ -12,7 +12,7 @@ import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
 import org.hibernate.annotations.TypeDefs;
 
-@Entity (name = "State")
+@Entity// (name = "State")
 @Table(name = "estado")
 @Data
 @Builder
